@@ -1,0 +1,3 @@
+streamlit
+requests
+#ells Python which libraries to install, such as Streamlit and Requests.
